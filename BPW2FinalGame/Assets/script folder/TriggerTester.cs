@@ -1,42 +1,50 @@
 using UnityEngine.Playables;
 using UnityEngine;
+using Unity.VisualScripting;
 
 
 public class removerThing : MonoBehaviour
 {
-//   public GameObject removeLamp;
-  //  public GameObject addLight;
+
     public GameObject removeObjectsTwo;
     public GameObject removeObjectsThree;
     public GameObject addObjects;
- //  public GameObject addObjectsTwo;
+    public GameObject addUserInterface;
+    public GameObject removeUserInterface;
+    public GameObject removeTimeSkipper;
+
     public GameObject addSounds;
 
- //   public float zoom;
-  //  private float zoomMultiplier = 4f;
-  //  private float minZoom;
-  //  private float maxZoom;
-  //  private float velocity;
-  //  private float smoothTime;
+    private int Checker = 0;
 
-  //  [SerializeField] private Camera cam;
 
-    private void Start()
+
+
+    private void OnTriggerStay2D(Collider2D collider)
     {
-  //      zoom = cam.orthographicSize;
+        Checker = 1;
+        addUserInterface.SetActive(true);
     }
 
-    private void OnTriggerEnter2D(Collider2D collider)
+    private void Update()
     {
- //           removeLamp.SetActive(false);
-  //    addLight.SetActive(true);
-        removeObjectsTwo.SetActive(false);
+         if (Checker == 1 && Input.GetButtonDown("Jump"))
+    {
+removeObjectsTwo.SetActive(false);
         removeObjectsThree.SetActive(false);
         addObjects.SetActive(true);
-    //   addObjectsTwo.SetActive(true);
+            removeUserInterface.SetActive(false);
+            removeTimeSkipper.SetActive(false);
+
         addSounds.SetActive(true);
- //       zoom = 10;
- //       cam.orthographicSize = zoom;
+
+
         Debug.Log("pipo");
     }
-}
+
+
+    }
+   
+
+
+}  
