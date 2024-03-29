@@ -1,0 +1,344 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.8f1 (b5eafc012955) revision 11922172'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'en' Physical Memory: 32492 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.8f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+C:/Users/maxdo/Desktop/BPW2 Game FInal/FinalToHandIn/BPW2_project_final/BPW2FinalGame
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+51035
+Successfully changed project path to: C:/Users/maxdo/Desktop/BPW2 Game FInal/FinalToHandIn/BPW2_project_final/BPW2FinalGame
+C:/Users/maxdo/Desktop/BPW2 Game FInal/FinalToHandIn/BPW2_project_final/BPW2FinalGame
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [40400] Host "[IP] 192.168.178.10 [Port] 0 [Flags] 2 [Guid] 1689532339 [EditorId] 1689532339 [Version] 1048832 [Id] WindowsEditor(7,Asphodel) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [40400] Host "[IP] 192.168.178.10 [Port] 0 [Flags] 2 [Guid] 1689532339 [EditorId] 1689532339 [Version] 1048832 [Id] WindowsEditor(7,Asphodel) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+[Physics::Module] Initialized MultithreadedJobDispatcher with 19 workers.
+Refreshing native plugins compatible for Editor in 15.07 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.8f1 (b5eafc012955)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/maxdo/Desktop/BPW2 Game FInal/FinalToHandIn/BPW2_project_final/BPW2FinalGame/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2560)
+    Vendor:   NVIDIA
+    VRAM:     5996 MB
+    Driver:   31.0.15.5176
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56072
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.011127 seconds.
+- Loaded All Assemblies, in  0.316 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.208 seconds
+Domain Reload Profiling: 522ms
+	BeginReloadAssembly (98ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (26ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (55ms)
+	LoadAllAssembliesAndSetupDomain (126ms)
+		LoadAssemblies (95ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (123ms)
+			TypeCache.Refresh (122ms)
+				TypeCache.ScanAssembly (111ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (0ms)
+	FinalizeReload (208ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (160ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (2ms)
+			ProcessInitializeOnLoadAttributes (99ms)
+			ProcessInitializeOnLoadMethodAttributes (45ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.743 seconds
+Refreshing native plugins compatible for Editor in 5.15 ms, found 4 plugins.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.632 seconds
+Domain Reload Profiling: 1367ms
+	BeginReloadAssembly (159ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (7ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (20ms)
+	RebuildCommonClasses (34ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (46ms)
+	LoadAllAssembliesAndSetupDomain (487ms)
+		LoadAssemblies (382ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (203ms)
+			TypeCache.Refresh (170ms)
+				TypeCache.ScanAssembly (156ms)
+			ScanForSourceGeneratedMonoScriptInfo (23ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (633ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (485ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (3ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (68ms)
+			ProcessInitializeOnLoadAttributes (315ms)
+			ProcessInitializeOnLoadMethodAttributes (79ms)
+			AfterProcessingInitializeOnLoad (14ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (6ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 7.92 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6419 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 107 unused Assets / (1.5 MB). Loaded Objects now: 6873.
+Memory consumption went from 245.2 MB to 243.6 MB.
+Total: 3.937200 ms (FindLiveObjects: 0.556300 ms CreateObjectMapping: 0.242900 ms MarkObjects: 2.746300 ms  DeleteObjects: 0.390700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:CustomObjectIndexerAttribute: a3ef5dd2817f97addfee359851a9dba5 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 142751.551728 seconds.
+  path: Assets/tilePalletes/bpwtiles_80.asset
+  artifactKey: Guid(81d34e2589b42e948b65fe43356b65d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_80.asset using Guid(81d34e2589b42e948b65fe43356b65d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0bc34bd350664650a832cf2eed6a8a9') in 0.039199 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.235278 seconds.
+  path: Assets/tilePalletes/bpwtiles_95.asset
+  artifactKey: Guid(0c4adbeadee515147b05040a258c379e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_95.asset using Guid(0c4adbeadee515147b05040a258c379e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f8ef0330e7e31e0dbc08b953e14762c') in 0.003574 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/tilePalletes/bpwtiles_106.asset
+  artifactKey: Guid(b34e53b885691104a989feb0c439fc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_106.asset using Guid(b34e53b885691104a989feb0c439fc27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7537029400b1e4d7839adb713a23759') in 0.001865 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/tilePalletes/bpwtiles_105.asset
+  artifactKey: Guid(376e33ac05bffd14ebfebefe03a6814f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_105.asset using Guid(376e33ac05bffd14ebfebefe03a6814f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ff4cc3d78d75629b6f89fd3af054f97') in 0.002432 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.022029 seconds.
+  path: Assets/tilePalletes/bpwtiles_108.asset
+  artifactKey: Guid(df02f72ae78466540888c3f364f1d11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_108.asset using Guid(df02f72ae78466540888c3f364f1d11f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ba414c1e56e49095c032ea62070b927') in 0.001925 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/tilePalletes/bpwtiles_126.asset
+  artifactKey: Guid(af5378681ae06f841999d4207d748827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_126.asset using Guid(af5378681ae06f841999d4207d748827) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '48a14f64898e365a20899915881c9204') in 0.001833 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000010 seconds.
+  path: Assets/tilePalletes/bpwtiles_133.asset
+  artifactKey: Guid(8ea1f5e996bf66f47ad0a0c44f88f773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_133.asset using Guid(8ea1f5e996bf66f47ad0a0c44f88f773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b4a3f91fc6564785b282bdc456751e0') in 0.002011 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/tilePalletes/bpwtiles_118.asset
+  artifactKey: Guid(30e0d79b0b4ae50458c164fce1ce58e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_118.asset using Guid(30e0d79b0b4ae50458c164fce1ce58e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f68d3ac596b611488869c45141055514') in 0.002044 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/tilePalletes/bpwtiles_122.asset
+  artifactKey: Guid(f05e5ff7d4a751e4cb6e33b020320647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_122.asset using Guid(f05e5ff7d4a751e4cb6e33b020320647) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '248622375782f6ce7d6e9d80d3cb96eb') in 0.001966 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000013 seconds.
+  path: Assets/tilePalletes/bpwtiles_131.asset
+  artifactKey: Guid(818c5b6f9d3872f46a5ea518df445a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_131.asset using Guid(818c5b6f9d3872f46a5ea518df445a7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13746a003bee0691fc7afed039b1f940') in 0.002246 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.221704 seconds.
+  path: Assets/tilePalletes/bpwtiles_136.asset
+  artifactKey: Guid(07131d5c127714c4dae74c599265be2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_136.asset using Guid(07131d5c127714c4dae74c599265be2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0b0c4081fb3d0aa9b94e7d5708e8468') in 0.002753 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.001407 seconds.
+  path: Assets/tilePalletes/bpwtiles_141.asset
+  artifactKey: Guid(f7d120e0de3824f4b8244b156121d40d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_141.asset using Guid(f7d120e0de3824f4b8244b156121d40d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b76be97b02458b1c28d57f5896cfd900') in 0.002306 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000085 seconds.
+  path: Assets/tilePalletes/bpwtiles_146.asset
+  artifactKey: Guid(13192469540c96143b5e8ad847d68116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_146.asset using Guid(13192469540c96143b5e8ad847d68116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '651a9462872ddce7bcec6e9f5698f530') in 0.002015 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.003134 seconds.
+  path: Assets/tilePalletes/bpwtiles_150.asset
+  artifactKey: Guid(fdc7074e6e28bac4dbdbde37bab35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_150.asset using Guid(fdc7074e6e28bac4dbdbde37bab35938) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee28f5f091c985aac25ae0cdd4b5c65d') in 0.002258 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/tilePalletes/bpwtiles_157.asset
+  artifactKey: Guid(004390041d9f8614a8d882f7cfb656f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_157.asset using Guid(004390041d9f8614a8d882f7cfb656f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f46e5869785b702e811a8ac85d1a1d5a') in 0.002558 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/tilePalletes/bpwtiles_154.asset
+  artifactKey: Guid(fc519b229686e6949ac525deac62179a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_154.asset using Guid(fc519b229686e6949ac525deac62179a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4181f9219155c1c4cdb32fe869c1f67') in 0.002763 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000685 seconds.
+  path: Assets/tilePalletes/bpwtiles_166.asset
+  artifactKey: Guid(f5dd7a14bc6c39740a5000e4a362ff08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_166.asset using Guid(f5dd7a14bc6c39740a5000e4a362ff08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6ee8a71d4784e48a4b03dfb012c4ad5') in 0.001900 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/tilePalletes/bpwtiles_171.asset
+  artifactKey: Guid(1500ac0f4f6c94c42beae8aa810585c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_171.asset using Guid(1500ac0f4f6c94c42beae8aa810585c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c74d4e1bba9823300530baf108c47ba') in 0.002786 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000012 seconds.
+  path: Assets/tilePalletes/bpwtiles_176.asset
+  artifactKey: Guid(8a063ac8949483441b3a0c51cdbf0a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_176.asset using Guid(8a063ac8949483441b3a0c51cdbf0a60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d971427e6f9272192dd08b4c149ecf5') in 0.002290 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.002575 seconds.
+  path: Assets/tilePalletes/bpwtiles_178.asset
+  artifactKey: Guid(4758742bfc0967f42850f07c4c30af1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/tilePalletes/bpwtiles_178.asset using Guid(4758742bfc0967f42850f07c4c30af1e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '672f31b338bbcbe4e7934f5543c2d4f9') in 0.002044 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
