@@ -71,9 +71,9 @@ Material:
     m_Floats:
     - _EnableExternalAlpha: 0
     - _ShockwaveStrength: -5
-    - _Size: 0.21
+    - _Size: 0.05
     - _TimeChanger: 0.4
-    - _WaveDistanceFromCenter: 0.35
+    - _WaveDistanceFromCenter: -0.1
     - _XSizeRatio: 1.4
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}

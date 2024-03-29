@@ -65,7 +65,7 @@ Material:
     - _Speed: 0.9
     - _Strength: 0.05
     - _TimeChanger: 0.06
-    - _WaveDistanceFromCenter: 0.18
+    - _WaveDistanceFromCenter: 0.41
     - _XSizeRatio: 1.4
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
